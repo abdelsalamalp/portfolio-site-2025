@@ -41,6 +41,7 @@ Our Prophet Muhammad peace be upon him said: “Whoever takes a path upon which 
 For me, computer networking is not merely a vocation; it is a responsibility. From configuring my first home router 
 to assisting others with their connectivity, I was drawn to understanding how systems interact and how trust is built through reliability. 
 I approach every task with intention and discipline, whether optimizing enterprise networks or securing local systems. 
+
 Seeking knowledge is a duty upon every Muslim, and applying it with honesty and excellence is a trust.
 """,
     "skills_header": "🧠 Skills",
@@ -127,6 +128,7 @@ Le Prophète Muhammad (que la paix soit sur lui) a dit : « Celui qui emprunte u
 Pour moi, les réseaux informatiques ne sont pas simplement une vocation ; c’est une responsabilité. De la configuration de mon premier routeur domestique à l’assistance apportée aux autres pour 
 leurs problèmes de connectivité, j’ai été attiré par la compréhension du fonctionnement des systèmes et par la manière dont la confiance se construit par la fiabilité. 
 J’aborde chaque tâche avec intention et discipline, qu’il s’agisse d’optimiser des réseaux d’entreprise ou de sécuriser des systèmes locaux. 
+
 La quête du savoir est un devoir pour chaque musulman, et l’appliquer avec honnêteté et excellence est un dépôt de confiance.
 """,
     "skills_header": "🧠 Compétences",
