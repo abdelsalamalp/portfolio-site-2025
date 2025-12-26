@@ -36,7 +36,7 @@ english_text = {
     "job_title": "Network & Systems Administrator",
     "resume_button": "📄 Resume",
     "intro": """
-For me, networking isn't just a vocation—it's a way of seeing the world. 
+For me, networking isn't just a vocation — it's a way of seeing the world. 
 From configuring my first home Wi-Fi router to helping neighbors troubleshoot their internet issues, I've always been drawn to the flow of data and the systems that connect us. 
 
 I approach every project with the same passion and precision, whether it's optimizing enterprise networks or securing local systems. 
