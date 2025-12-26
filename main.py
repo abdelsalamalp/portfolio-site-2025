@@ -36,11 +36,12 @@ english_text = {
     "job_title": "Network & Systems Administrator",
     "resume_button": "📄 Resume",
     "intro": """
-For me, networking isn't just a vocation — it's a way of seeing the world. 
-From configuring my first home Wi-Fi router to helping neighbors troubleshoot their internet issues, I've always been drawn to the flow of data and the systems that connect us. 
+Our Prophet Muhammad peace be upon him said: “Whoever takes a path upon which to obtain knowledge, Allah makes the path to Paradise easy for him.”
 
-I approach every project with the same passion and precision, whether it's optimizing enterprise networks or securing local systems. 
-Networking isn't just what I do - it's who I am.
+For me, computer networking is not merely a vocation; it is a responsibility. From configuring my first home router 
+to assisting others with their connectivity, I was drawn to understanding how systems interact and how trust is built through reliability. 
+I approach every task with intention and discipline, whether optimizing enterprise networks or securing local systems. 
+Seeking knowledge is a duty upon every Muslim, and applying it with honesty and excellence is a trust.
 """,
     "skills_header": "🧠 Skills",
     "skills": {
@@ -121,10 +122,12 @@ french_text = {
     "job_title": "Administrateur Réseau & Systèmes",
     "resume_button": "📄 CV",
     "intro": """
-Pour moi, administrer un réseau n'est pas seulement une profession, c’est une manière de voir le monde.  
-Depuis la configuration de mon premier routeur Wi-Fi à la maison jusqu'à aider mes voisins à résoudre leurs problèmes Internet, j’ai toujours été attiré par le flux des données et les systèmes qui nous relient. 
+Le Prophète Muhammad (que la paix soit sur lui) a dit : « Celui qui emprunte un chemin en quête de savoir, Allah lui facilite un chemin vers le Paradis. »
 
-Je mets la même passion et précision dans chaque projet, qu’il s’agisse d’optimiser un réseau d’entreprise ou de sécuriser un système local. Le réseautage, c’est plus qu’un métier — c’est mon identité.
+Pour moi, les réseaux informatiques ne sont pas simplement une vocation ; c’est une responsabilité. De la configuration de mon premier routeur domestique à l’assistance apportée aux autres pour 
+leurs problèmes de connectivité, j’ai été attiré par la compréhension du fonctionnement des systèmes et par la manière dont la confiance se construit par la fiabilité. 
+J’aborde chaque tâche avec intention et discipline, qu’il s’agisse d’optimiser des réseaux d’entreprise ou de sécuriser des systèmes locaux. 
+La quête du savoir est un devoir pour chaque musulman, et l’appliquer avec honnêteté et excellence est un dépôt de confiance.
 """,
     "skills_header": "🧠 Compétences",
     "skills": {
