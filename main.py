@@ -47,49 +47,39 @@ Seeking knowledge is a duty upon every Muslim, and applying it with honesty and 
     "skills_header": "🧠 Skills",
     "skills": {
         "🌐 Networking": {
-            "Network Monitoring": 95,
-            "Network Troubleshooting": 85,
-            "Network Security": 85,
-            "Network Design": 80,
-            "Network Automation": 75,
-            "Wireless Networking": 70,
-            "Routing & Switching": 90
+            "Network Troubleshooting": 97,
+            "Network Implementation": 80,
+            "Network Operations": 92,
+            "Network Security": 86,
+            "Network Automation": 70
         },
         "🖥️ Systems Administration": {
-            "Active Directory": 95,
-            "Server Administration": 85,
-            "Cloud Computing": 80,
+            "User & Access Management": 95,
+            "Security & Compliance": 90,
+            "Cloud Computing & Virtualization": 70,
             "Backup & Disaster Recovery": 80,
-            "Virtualization": 60,
-            "Patch Management": 75,
-            "Database Administration": 90
+            "Software & Hardware Management": 83
         },
         "🔐 Security": {
-            "Firewall Configuration": 90,
-            "VPNs & Remote Access Security": 85,
-            "Intrusion Detection & Prevention Systems": 65,
-            "Network Access Control": 85,
-            "SEIM/Log Analysis": 80,
-            "Cryptography & PKI": 60,
-            "Penetration Testing": 50,
+            "Vulnerability Discovery & Analysis": 82,
+            "Engagement Management": 75,
+            "Security Architecture": 78,
+            "Security Operations": 83,
+            "Reporting & Communication": 95
         },
         "💻 Programming & Scripting": {
-            "Python": 98,
-            "Netmiko": 85,
-            "SQL": 95,
-            "Shell Scripting": 65,
-            "Configuration as Code": 50,
-            "Java": 90,
-            "C++": 60,
+            "Python": 95,
+            "SQL": 89,
+            "Shell Scripting": 50,
+            "Java": 87,
+            "C++": 60
         },
         "🧰 Tools & Utilities": {
-            "Cisco Packet Tracer": 98,
-            "Wireshark": 96,
-            "Nmap": 92,
-            "SolarWinds": 80,
-            "Nagios": 65,
-            "Ansible": 80,
-            "PRTG": 65,
+            "Wireshark": 93,
+            "Nmap": 88,
+            "SNMP-based monitoring tools": 84,
+            "Wi-Fi Analyzers": 78,
+            "Command Line Tools": 86
         }
     },
     "what_i_can_do_header": "🛠️ What I Can Do",
@@ -133,50 +123,40 @@ La quête du savoir est un devoir pour chaque musulman, et l’appliquer avec ho
 """,
     "skills_header": "🧠 Compétences",
     "skills": {
-        "🌐 Réseautage": {
-            "Surveillance réseau": 95,
-            "Dépannage réseau": 85,
-            "Sécurité réseau": 85,
-            "Conception réseau": 80,
-            "Automatisation réseau": 75,
-            "Réseau sans fil": 70,
-            "Routage et commutation": 90
+        "🌐 Réseautique": {
+            "Dépannage réseau": 97,
+            "Mise en Œuvre Réseau": 80,
+            "Exploitations Réseau": 92,
+            "Sécurité Réseau": 86,
+            "Automatisation Réseau": 70
         },
-        "🖥️ Administration Systèmes": {
-            "Active Directory": 95,
-            "Administration serveur": 85,
-            "Infonuagique": 80,
-            "Sauvegarde et reprise après sinistre": 80,
-            "Virtualisation": 60,
-            "Gestion des correctifs": 75,
-            "Administration des bases de données": 90
+        "🖥️ Administration des Systèmes": {
+            "Gestion des Utilisateurs et des Accès": 95,
+            "Sécurité et Conformité": 90,
+            "Informatique en Cloud et Virtualisation": 70,
+            "Sauvegarde et Reprise après Sinistre": 80,
+            "Gestion des Logiciels et du Matériel": 83
         },
-        "🔐 Sécurité": {
-            "Configuration de pare-feu": 90,
-            "VPN & sécurité accès distant": 85,
-            "Systèmes de détection et prévention d'intrusion": 65,
-            "Contrôle d'accès réseau": 85,
-            "SEIM/Log Analysis": 80,
-            "Cryptographie & PKI": 60,
-            "Tests d’intrusion": 50,
+        "🔐 Cybersécurité": {
+            "Découverte et Analyse des Vulnérabilités": 82,
+            "Gestion des Engagements": 75,
+            "Architecture de Sécurité": 78,
+            "Opérations de Sécurité": 83,
+            "Rapports et Communication": 95
         },
         "💻 Programmation & Scripts": {
-            "Python": 98,
-            "Netmiko": 85,
-            "SQL": 95,
-            "Shell scripting": 65,
-            "Configuration as Code": 50,
-            "Java": 90,
-            "C++": 60,
+            "Python": 95,
+            "SQL": 89,
+            "Shell": 50,
+            "Java": 87,
+            "C++": 60
         },
-        "🧰 Outils & Utilitaires": {
-            "Cisco Packet Tracer": 98,
-            "Wireshark": 96,
-            "Nmap": 92,
-            "SolarWinds": 80,
-            "Nagios": 65,
-            "Ansible": 80,
-            "PRTG": 65,
+        "🧰 Outils": {
+            "Wireshark": 93,
+            "Nmap": 88,
+            "Outils de surveillance basés sur SNMP": 84,
+            "Analyseurs Wi-Fi": 78,
+            "Outils en ligne de commande": 86
         }
     },
     "what_i_can_do_header": "🛠️ Ce Que Je Peux Faire",
