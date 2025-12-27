@@ -100,7 +100,7 @@ Seeking knowledge is a duty upon every Muslim, and applying it with honesty and 
     ],
     "motto_header": "💬 Signature Quote",
     "motto": """
-“Every good Network Admin should be part scientist, part artist, and part detective.”<br>
+“A skilled Network Admin should be part scientist, part artist, and part detective.”<br>
 <span style="font-size:0.9em; color:#666;">— Abdul Salam Nassar, 2023</span>
 """,
     "certification_header": '<a href="https://www.credly.com/badges/8ed85898-e494-4522-b4ba-e7fa4d63bb91/public_url" target="_blank" style="text-decoration:none; color:inherit;">🎖️ CompTIA Network+</a>',
